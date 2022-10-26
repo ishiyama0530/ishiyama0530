@@ -1,4 +1,28 @@
-### Hi there 👋
+## 経歴
+
+- 2013年4月〜2017年2月　SIエンジニア（PG）
+- 2017年4月〜2022年6月　Webアプリケーションエンジニア
+
+[Zennアカウント](https://zenn.dev/ishiyama)
+
+[Qiitaアカウント](https://qiita.com/ishiyama0530)
+
+## 技術スタック
+
+フロントエンド  
+TypeScript / Vue / React
+
+バックエンド  
+RDB / NoSQL / C# / Node.js
+
+## その他
+
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **ishiyama0530/ishiyama0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
