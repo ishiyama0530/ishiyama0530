@@ -1,9 +1,9 @@
 ## 経歴
 
 - 2013年4月〜2017年2月　SIエンジニア（PG）
-- 2017年4月〜　Webアプリケーションエンジニア
+- 2017年4月〜　Webアプリケーションエンジニア（リーダー）
 
-[Zennアカウント](https://zenn.dev/ishiyama)
+[Zennアカウント（最近はこっち）](https://zenn.dev/ishiyama)
 
 [Qiitaアカウント](https://qiita.com/ishiyama0530)
 
