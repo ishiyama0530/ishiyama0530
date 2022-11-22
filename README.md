@@ -1,11 +1,14 @@
 ## 経歴
 
-- 2013年4月〜2017年2月　SIエンジニア（PG）
-- 2017年4月〜　Webアプリケーションエンジニア（リーダー）
+- 2013年4月〜2017年2月 | SIエンジニア（PG）
+- 2017年4月〜現在 | Webアプリケーションエンジニア（リーダー）
 
-[Zennアカウント（最近はこっち）](https://zenn.dev/ishiyama)
+[Zennアカウント](https://zenn.dev/ishiyama)
 
 [Qiitaアカウント](https://qiita.com/ishiyama0530)
+
+Zenn に関してはポートフォリオになればと思い、記事を投稿しています。  
+普段どのような事を考えながらプログラミングしているか見ていただけると幸いです🍀
 
 ## 技術スタック
 
@@ -13,7 +16,11 @@
 TypeScript / Vue / React
 
 バックエンド  
-RDB / NoSQL / C# / Node.js
+C# / TypeScript / RDB / MongoDB
+
+## 資格
+
+応用情報技術者試験
 
 ## その他
 
