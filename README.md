@@ -13,10 +13,10 @@ Zenn に関してはポートフォリオになればと思い、記事を投稿
 ## 技術スタック
 
 フロントエンド  
-TypeScript / Vue / React
+TypeScript / React / Vue
 
 バックエンド  
-C# / TypeScript / RDB / MongoDB
+C# / TypeScript / RDB / NoSQL
 
 ## 資格
 
