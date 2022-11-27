@@ -17,7 +17,7 @@ C# / TypeScript / RDB / NoSQL / others…
 
 ## その他
 
-### SNS
+### Articles
 - [Zennアカウント](https://zenn.dev/ishiyama)
 - [Qiitaアカウント](https://qiita.com/ishiyama0530)
 
