@@ -30,7 +30,7 @@ Zenn に関してはポートフォリオになればと思い、記事を投稿
 
 ### Tools
 
-[Vue.js AutoImport](https://ishiyama.gallerycdn.vsassets.io/extensions/ishiyama/vue-autoimport/1.0.5/1601094937612/Microsoft.VisualStudio.Services.Icons.Default) #vscode
+[Vue.js AutoImport](https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport) #vscode
 <p>
   <a href="https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport">
     <img src="https://vsmarketplacebadge.apphb.com/installs-short/ishiyama.vue-autoimport.svg?style=flat-square">
