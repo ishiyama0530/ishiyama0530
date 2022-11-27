@@ -3,45 +3,25 @@
 - 2013年4月〜2017年2月 | SIエンジニア（PG）
 - 2017年4月〜現在 | Webアプリケーションエンジニア（リーダー）
 
-[Zennアカウント](https://zenn.dev/ishiyama)
-
-[Qiitaアカウント](https://qiita.com/ishiyama0530)
-
-Zenn に関してはポートフォリオになればと思い、記事を投稿しています。  
-普段どのような事を考えながらプログラミングしているか見ていただけると幸いです🍀
-
 ## 技術スタック
 
 フロントエンド  
-TypeScript / React / Vue
+TypeScript / React / Vue / jQuery / others…
 
 バックエンド  
-C# / TypeScript / RDB / NoSQL
+C# / TypeScript / RDB / NoSQL / others…
 
 ## 資格
 
 応用情報技術者試験
 
 ## その他
+- [Zennアカウント](https://zenn.dev/ishiyama)
+- [Qiitaアカウント](https://qiita.com/ishiyama0530)
 
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula" />
+Zenn に関してはポートフォリオになればと思い、記事を投稿しています。  
+見ていただけると幸いです🍀
+
+<a href="https://zenn.dev/ishiyama/articles/a0c5a7504b856f" target="_blank">
+  <img alt="zenn-article" src="https://pbs.twimg.com/card_img/1594450554536665088/Uh30ocoE?format=png&amp;name=medium" width="256" height="130">
 </a>
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
-</a>
-
-<!--
-**ishiyama0530/ishiyama0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
