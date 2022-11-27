@@ -22,6 +22,6 @@ C# / TypeScript / RDB / NoSQL / others…
 Zenn に関してはポートフォリオになればと思い、記事を投稿しています。  
 見ていただけると幸いです🍀
 
-<a href="https://zenn.dev/ishiyama/articles/a0c5a7504b856f" target="_blank">
+<a href="https://zenn.dev/ishiyama/articles/a0c5a7504b856f">
   <img alt="zenn-article" src="https://pbs.twimg.com/card_img/1594450554536665088/Uh30ocoE?format=png&amp;name=medium" width="256" height="130">
 </a>
