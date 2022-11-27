@@ -40,3 +40,6 @@ Zenn に関してはポートフォリオになればと思い、記事を投稿
     <img src="https://vsmarketplacebadge.apphb.com/rating-short/ishiyama.vue-autoimport.svg?style=flat-square">
   </a>
 </p>
+
+### Contact
+✉️ ishiyama0530.dev@gmail.com
