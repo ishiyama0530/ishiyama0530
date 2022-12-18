@@ -25,21 +25,11 @@ C# / TypeScript / RDB / NoSQL / others…
 Zenn に関してはポートフォリオになればと思い、記事を投稿しています。  
 見ていただけると幸いです🍀
 
-<a href="https://zenn.dev/ishiyama/articles/a0c5a7504b856f">
-  <img alt="zenn-article-link" src="https://pbs.twimg.com/card_img/1594450554536665088/Uh30ocoE?format=png&amp;name=medium" width="256" height="130">
-</a>
+- [「良いコード」を書くために意識している17のTips まとめ | Zenn](https://zenn.dev/ishiyama/articles/a0c5a7504b856f)
 
 ### Tools
 
-[Vue.js AutoImport](https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport) #vscode
-<p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport">
-    <img src="https://vsmarketplacebadge.apphb.com/installs-short/ishiyama.vue-autoimport.svg?style=flat-square">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport">
-    <img src="https://vsmarketplacebadge.apphb.com/rating-short/ishiyama.vue-autoimport.svg?style=flat-square">
-  </a>
-</p>
+- [Vue.js AutoImport | Marketplace](https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport) #Extensions for Visual Studio Code
 
 ### Contact
 ✉️ ishiyama0530.dev@gmail.com
