@@ -7,16 +7,22 @@
 ## 技術スタック 
 
 **プログラミング言語・フレームワーク**  
-TypeScript / C# / React Hooks / Next.js / Vue.js / Nuxt.js(CSR) / jQuery / Node.js / Express.js / Nest.js / .NET / .NetFw / OpenAPI / Terraform
+TypeScript / C# / React Hooks / Next.js / Vue.js / Nuxt.js / jQuery / Node.js / Express.js / Nest.js / .NET / OpenAPI / Terraform
 
 **データベース**  
 Oracle / MySQL / SQL Server / SQlite / Mongodb / Redis
 
 **クラウド**  
-AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, ACM, S3, EIC, SSM, ElasticCache, CloudWatch Logs/Alert, X-Ray, FireLens, Lambda, SNS, Event Bridge, ElastiCache, DocumentDB, SecurityGoroup, CodePipeline, CodeCommit, CodeBuild, CodeDeploy, CodeArtifact, ECR, IAM など)
+AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, ACM, S3, EIC, SSM, ElasticCache, CloudWatch Logs/Alert, X-Ray, FireLens, Lambda, SNS, Event Bridge, ElastiCache, DocumentDB, DMS, SecurityGoroup, CodePipeline, CodeCommit, CodeBuild, CodeDeploy, CodeArtifact, ECR, IAM など)
 
-**ツール**  
-Slack / Chatwork / Zoom / Miro / Docker / Splunk / RedMine / Backlog / ChatGPT / GitHub Copilot / GitHub / GitLab / Git / Bash / WSL / Subversion / VS / VSC / others…
+**開発支援**  
+Docker / Splunk / ChatGPT / GitHub Copilot / GitHub / GitLab / Git / Subversion / Jenkins / Bash / WSL / VS / VScode / 各種Linter / Prettier / others…
+
+**コラボレーション・プロジェクト管理**  
+Slack / Chatwork / Zoom / Miro / HackMD / RedMine / Backlog
+
+**開発手法・設計**  
+アジャイル / ウォーターフォール / TDD / DDD / CQS / Clean Architecture
 
 ## 資格
 
@@ -28,7 +34,7 @@ Slack / Chatwork / Zoom / Miro / Docker / Splunk / RedMine / Backlog / ChatGPT /
 - [Zennアカウント](https://zenn.dev/ishiyama)
 - [Qiitaアカウント](https://qiita.com/ishiyama0530)
 
-Zenn に関してはポートフォリオになればと思い、投稿した記事です。  
+Zenn に関してはポートフォリオになればと思い、投稿しています。  
 見ていただけると幸いです🍀
 
 - [「良いコード」を書くために意識している17のTips まとめ | Zenn](https://zenn.dev/ishiyama/articles/a0c5a7504b856f)
