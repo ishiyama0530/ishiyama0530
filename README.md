@@ -16,13 +16,13 @@ Oracle / MySQL / SQL Server / SQlite / Mongodb / Redis
 AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, ACM, S3, EIC, SSM, ElasticCache, CloudWatch Logs/Alert, X-Ray, FireLens, Lambda, SNS, Event Bridge, ElastiCache, DocumentDB, DMS, SecurityGoroup, CodePipeline, CodeCommit, CodeBuild, CodeDeploy, CodeArtifact, ECR, IAM など)
 
 **開発支援**  
-Docker / Splunk / ChatGPT / GitHub Copilot / GitHub / GitLab / Git / Subversion / Jenkins / Bash / WSL / VS / VScode / 各種Linter / Prettier / others…
+Docker / Splunk / ChatGPT / GitHub Copilot / GitHub / GitLab / Git / Subversion / Jenkins / Bash / WSL / VS / VScode / others…
 
 **コラボレーション・プロジェクト管理**  
 Slack / Chatwork / Zoom / Miro / HackMD / RedMine / Backlog
 
 **開発手法・設計**  
-アジャイル / ウォーターフォール / TDD / DDD / CQS / Clean Architecture
+アジャイル / ウォーターフォール / TDD / DDD / CQS / Clean Architecture / MVC / MVP / Atomic Design 
 
 ## 資格
 
