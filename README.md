@@ -13,13 +13,13 @@ TypeScript / C# / React Hooks / Next.js / Vue.js / Nuxt.js / jQuery / Node.js / 
 Oracle / MySQL / SQL Server / SQlite / Mongodb / Redis
 
 **クラウド**  
-AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, ACM, S3, EIC, SSM, ElasticCache, CloudWatch Logs/Alert, X-Ray, FireLens, Lambda, SNS, Event Bridge, ElastiCache, DocumentDB, DMS, SecurityGoroup, CodePipeline, CodeCommit, CodeBuild, CodeDeploy, CodeArtifact, ECR, IAM など)
+AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, ACM, S3, EIC, SSM, CloudWatch Logs/Alert, OpenTelemetry, X-Ray, FireLens, AWS for Fluent Bit, Lambda, SNS, Event Bridge, ElastiCache, DocumentDB, DMS, SecurityGoroup, CodePipeline, CodeCommit, CodeBuild, CodeDeploy, CodeArtifact, ECR, IAM など)
 
 **開発支援**  
 Docker / Splunk / ChatGPT / GitHub Copilot / GitHub / GitLab / Git / Subversion / Jenkins / Bash / WSL / VS / VScode / others…
 
 **コラボレーション・プロジェクト管理**  
-Slack / Chatwork / Zoom / Miro / HackMD / RedMine / Backlog
+Slack / Chatwork / Zoom / Miro / RedMine / Backlog
 
 **開発手法・設計**  
 アジャイル / ウォーターフォール / TDD / DDD / CQS / Clean Architecture / MVC / MVP / Atomic Design 
