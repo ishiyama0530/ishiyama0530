@@ -26,7 +26,7 @@ Slack / Chatwork / Zoom / Miro / RedMine / Backlog
 **開発手法・設計**  
 アジャイル / ウォーターフォール / TDD / DDD / CQS / Clean Architecture / MVC / MVP / Atomic Design 
 
-**その他**
+**その他**  
 Google reCAPTCHA / Google Tag Manager / Google Analytics / Adobe Analytics
 
 ## 資格
