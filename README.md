@@ -1,16 +1,17 @@
 ## 経歴
 
 - 2012年 大学卒業
-- 2013年4月〜2017年2月 | 独立系SIer企業 / プログラマー
-- 2017年4月〜現在 | 東証プライム上場企業 / Webアプリケーションエンジニア （リーダー）
+- 2013年4月〜2017年2月 -> 独立系SIer企業 / プログラマー
+- 2017年4月〜2024年1月 -> 東証プライム上場企業 / Webアプリケーションエンジニア （リーダー）
+- 2024年2月〜現在 -> フリーランスエンジニア
 
 ## 技術スタック 
 
 **プログラミング言語・フレームワーク**  
-TypeScript / C# / React Hooks / Next.js / Vue.js / Nuxt.js / jQuery / Node.js / Express.js / Nest.js / .NET / OpenAPI / Terraform
+TypeScript | C# | React Hooks | Next.js | Vue.js | Nuxt.js | jQuery | Node.js | Express.js | Nest.js | .NET | OpenAPI | Terraform
 
 **データベース**  
-Oracle / MySQL / SQL Server / SQlite / Mongodb / Redis
+Oracle | MySQL | SQL Server | SQlite | Mongodb | Redis
 
 **クラウド**  
 AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, ACM, S3, EIC, SSM, CloudWatch Logs/Alert, OpenTelemetry, X-Ray, FireLens, AWS for Fluent Bit, Lambda, SNS, Event Bridge, ElastiCache, DocumentDB, DMS, SecurityGoroup, CodePipeline, CodeCommit, CodeBuild, CodeDeploy, CodeArtifact, ECR, IAM など)  
@@ -18,16 +19,16 @@ AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, 
 Azure（Key Vault, Partner Center API, Graph API）  
 
 **開発支援**  
-Docker / Splunk / ChatGPT / GitHub Copilot / GitHub / GitLab / Git / Subversion / Jenkins / Bash / WSL / VS / VScode / others…
+Docker | Splunk | ChatGPT | GitHub Copilot | GitHub | GitLab | Git | Subversion | Jenkins | Bash | WSL | VS | VScode | others…
 
 **コラボレーション・プロジェクト管理**  
-Slack / Chatwork / Zoom / Miro / RedMine / Backlog
+Slack | Chatwork | Zoom | Miro | RedMine | Backlog
 
 **開発手法・設計**  
-アジャイル / ウォーターフォール / TDD / DDD / CQS / Clean Architecture / MVC / MVP / Atomic Design 
+アジャイル | ウォーターフォール | TDD | DDD | CQS | Clean Architecture | MVC | MVP | Atomic Design 
 
 **その他**  
-Google reCAPTCHA / Google Tag Manager / Google Analytics / Adobe Analytics
+Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics
 
 ## 資格
 
