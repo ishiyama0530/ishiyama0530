@@ -5,30 +5,32 @@
 - 2017年4月〜2024年1月 -> 東証プライム上場企業 / Webアプリケーションエンジニア （リーダー）
 - 2024年2月〜現在 -> フリーランスエンジニア
 
-## 技術スタック 
+## スキル 
 
-**プログラミング言語・フレームワーク**  
-TypeScript | C# | React Hooks | Next.js | Vue.js | Nuxt.js | jQuery | Node.js | Express.js | Nest.js | .NET | OpenAPI | Terraform
+- 基本的にすべて実業務で使用した技術のみを列挙しています。
 
-**データベース**  
+### プログラミング言語・フレームワーク
+TypeScript | JavaScript | C# | React Hooks | Next.js | Vue.js | Nuxt.js | jQuery | Node.js | Express.js | .NET | OpenAPI | MUI | Bootstrap など
+
+### データベース
 Oracle | MySQL | SQL Server | SQlite | Mongodb | Redis
 
-**クラウド**  
-AWS（ECS Fargate, ALB, Global Accelerator, NAT Gateway, VPC Endpoint, Route53, ACM, S3, EIC, SSM, CloudWatch Logs/Alert, OpenTelemetry, X-Ray, FireLens, AWS for Fluent Bit, Lambda, SNS, Event Bridge, ElastiCache, DocumentDB, DMS, SecurityGoroup, CodePipeline, CodeCommit, CodeBuild, CodeDeploy, CodeArtifact, ECR, IAM など)  
+### IaC
+Terraform
+
+### クラウド
+
+**AWS**  
+ECS Fargate | ALB | Global Accelerator | NAT Gateway | VPC Endpoint | Route53 | ACM | S3 | EIC | SSM | CloudWatch Logs/Alert | OpenTelemetry | X-Ray | FireLens | AWS for Fluent Bit | Lambda | SNS | Chatbot | Event Bridge | ElastiCache | DocumentDB | DMS | SecurityGroup | CodePipeline | CodeCommit | CodeBuild | CodeDeploy | CodeArtifact | ECR | IAM など  
   
-Azure（Key Vault, Partner Center API, Graph API）  
+**Azure**  
+Key Vault | Partner Center API | Graph API  
 
-**開発支援**  
-Docker | Splunk | ChatGPT | GitHub Copilot | GitHub | GitLab | Git | Subversion | Jenkins | Bash | WSL | VS | VScode | others…
-
-**コラボレーション・プロジェクト管理**  
-Slack | Chatwork | Zoom | Miro | RedMine | Backlog
-
-**開発手法・設計**  
+### 開発手法・設計
 アジャイル | ウォーターフォール | TDD | DDD | CQS | Clean Architecture | MVC | MVP | Atomic Design 
 
-**その他**  
-Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics
+### その他  
+Docker | Splunk | ChatGPT | GitHub Copilot | GitHub | GitLab | Git | Subversion | Jenkins | Bash | WSL | VS | VScode | Slack | Chatwork | Zoom | Miro | RedMine | Backlog | Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics など  
 
 ## 資格
 
