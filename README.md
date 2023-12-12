@@ -32,6 +32,10 @@ Key Vault | Partner Center API | Graph API
 ### その他  
 Docker | Splunk | ChatGPT | GitHub Copilot | GitHub | GitLab | Git | Subversion | Jenkins | Bash | WSL | VS | VScode | Slack | Chatwork | Zoom | Miro | RedMine | Backlog | Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics など  
 
+## 主な業務実績
+
+- [主な業務実績.md](./主な業務実績.md)
+
 ## 資格
 
 - 応用情報技術者試験
