@@ -5,6 +5,10 @@
 - 2017年4月〜2024年1月 -> 東証プライム上場企業 / Webアプリケーションエンジニア （リーダー）
 - 2024年2月〜現在 -> フリーランスエンジニア
 
+### 主な業務実績
+
+- [主な業務実績.md](./主な業務実績.md)
+
 ## スキル 
 
 - 基本的にすべて実業務で使用した技術のみを列挙しています。
@@ -31,10 +35,6 @@ Key Vault | Partner Center API | Graph API
 
 ### その他  
 Docker | Splunk | ChatGPT | GitHub Copilot | GitHub | GitLab | Git | Subversion | Jenkins | Bash | WSL | VS | VScode | Slack | Chatwork | Zoom | Miro | RedMine | Backlog | Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics など  
-
-## 主な業務実績
-
-- [主な業務実績.md](./主な業務実績.md)
 
 ## 資格
 
