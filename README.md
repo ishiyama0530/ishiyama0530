@@ -2,8 +2,8 @@
 
 - 2012年 大学卒業
 - 2013年4月〜2017年2月 -> 独立系SIer企業 / プログラマー
-- 2017年4月〜2024年1月 -> 東証プライム上場企業 / Webアプリケーションエンジニア （リーダー）
-- 2024年2月〜現在 -> フリーランスエンジニア
+- 2017年4月〜2023年12月 -> 東証プライム上場企業 / Webアプリケーションエンジニア （リーダー）
+- 2024年1月〜現在 -> フリーランスエンジニア
 
 ### 主な業務実績
 
@@ -17,24 +17,30 @@
 TypeScript | JavaScript | C# | React Hooks | Next.js | Vue.js | Nuxt.js | jQuery | Node.js | Express.js | .NET | OpenAPI | MUI | Bootstrap など
 
 ### データベース
-Oracle | MySQL | SQL Server | SQlite | Mongodb | Redis
+Oracle | MySQL | Postgres | SQL Server | SQlite | Mongodb | Redis | Memcache
 
 ### IaC
 Terraform
 
+### Test
+Playwright | Jest | MsTest
+
 ### クラウド
 
 **AWS**  
-ECS Fargate | ALB | Global Accelerator | NAT Gateway | VPC Endpoint | Route53 | ACM | S3 | EIC | SSM | CloudWatch Logs/Alert | OpenTelemetry | X-Ray | FireLens | AWS for Fluent Bit | Lambda | SNS | Chatbot | Event Bridge | ElastiCache | DocumentDB | DMS | SecurityGroup | CodePipeline | CodeCommit | CodeBuild | CodeDeploy | CodeArtifact | ECR | IAM など  
+ECS Fargate | ALB | Global Accelerator | NAT Gateway | VPC Endpoint | Route53 | ACM | S3 | EIC | SSM | CloudWatch Logs/Alert | OpenTelemetry | X-Ray | FireLens | AWS for Fluent Bit | Lambda | SNS | Chatbot | Event Bridge | RDS | Aurora MySQL | ElastiCache | DocumentDB | DMS | WAF | SecurityGroup | CodePipeline | CodeCommit | CodeBuild | CodeDeploy | CodeArtifact | ECR | IAM | AppRunner | Amplify など  
   
 **Azure**  
 Key Vault | Partner Center API | Graph API  
 
-### 開発手法・設計
-アジャイル | ウォーターフォール | TDD | DDD | CQS | Clean Architecture | MVC | MVP | Atomic Design 
+### 開発手法
+アジャイル | ウォーターフォール
+
+### 設計
+Clean Architecture | DDD | TDD | CQS | MVC | MVP | Atomic Design | bulletproof-react
 
 ### その他  
-Docker | Splunk | ChatGPT | GitHub Copilot | GitHub | GitLab | Git | Subversion | Jenkins | Bash | WSL | VS | VScode | Slack | Chatwork | Zoom | Miro | RedMine | Backlog | Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics など  
+Docker/docker-compose | Splunk | Sentry | ChatGPT | GitHub Copilot | GitHub | GitHub Actions | GitHub Projects | GitLab | Git | Subversion | Jenkins | ShellScript | WSL | VS | VScode | Slack | Chatwork | Zoom | Miro | RedMine | Backlog | Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics | Adobe XD | Figma | SendGrid | FIndy Teams など  
 
 ## 資格
 
@@ -54,12 +60,14 @@ Docker | Splunk | ChatGPT | GitHub Copilot | GitHub | GitLab | Git | Subversion 
 - [Reactでフォーム処理の関心事をカスタムフックに切り出す | Zenn](https://zenn.dev/ishiyama/articles/746fc3f8fe78db)
 - [Reactで再描画を抑える方法まとめ | Zenn](https://zenn.dev/ishiyama/articles/99aff84e95ef27)
 - [中規模以上のWeb開発に耐える3層アーキテクチャとDIP設計 | Zenn](https://zenn.dev/ishiyama/articles/b6d34862abf48c)
-- [AWSで時間を無駄にしないためのN個のTips](https://zenn.dev/ishiyama/articles/52458cc583d740)
-- [AWSにTerraformを使って実践的なWebアプリ環境をリリースする](https://zenn.dev/ishiyama/articles/d82d4b8a583a79)
+- [AWSで時間を無駄にしないためのN個のTips | Zenn](https://zenn.dev/ishiyama/articles/52458cc583d740)
+- [AWSにTerraformを使って実践的なWebアプリ環境をリリースする | Zenn](https://zenn.dev/ishiyama/articles/d82d4b8a583a79)
+- [Playwright+GitHub Actions*E2E with VRT 環境構築とCI/CD連携の知見 | Zenn](https://zenn.dev/ishiyama/articles/c85138b42e3e1f)
+- [node.js/express.jsにSentryをいれる。一気通関にログを抽出するためのトレースIDを仕込む。 | Zenn](https://zenn.dev/ishiyama/articles/8792279dc03b18)
 
 **ツール**  
 
-- [Vue.js AutoImport | Marketplace](https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport) #31k installs
+- [Vue.js AutoImport | Marketplace](https://marketplace.visualstudio.com/items?itemName=ishiyama.vue-autoimport) #35k installs
 
 
 ## スコア
