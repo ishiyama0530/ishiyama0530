@@ -14,7 +14,7 @@
 - 基本的にすべて実業務で使用した技術のみを列挙しています。
 
 ### プログラミング言語・フレームワーク
-TypeScript | JavaScript | C# | React Hooks | Next.js | Vue.js | Nuxt.js | jQuery | Node.js | Express.js | .NET | OpenAPI | MUI | Bootstrap など
+TypeScript | JavaScript | C# | React Hooks | Next.js | Vue.js | Nuxt.js | jQuery | Node.js | Express.js | .NET | OpenAPI | Tailwind | styled-component | MUI | Bootstrap など
 
 ### データベース
 Oracle | MySQL | Postgres | SQL Server | SQlite | Mongodb | Redis | Memcache
@@ -36,11 +36,11 @@ Key Vault | Partner Center API | Graph API
 ### 開発手法
 アジャイル | ウォーターフォール
 
-### 設計
+### アーキテクチャ
 Clean Architecture | DDD | TDD | CQS | MVC | MVP | Atomic Design | bulletproof-react
 
 ### その他  
-Docker/docker-compose | Splunk | Sentry | ChatGPT | GitHub Copilot | GitHub | GitHub Actions | GitHub Projects | GitLab | Git | Subversion | Jenkins | ShellScript | WSL | VS | VScode | Slack | Chatwork | Zoom | Miro | RedMine | Backlog | Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics | Adobe XD | Figma | SendGrid | FIndy Teams など  
+Docker/docker-compose | Splunk | Sentry | ChatGPT | Claude | GitHub Copilot | GitHub | GitHub Actions | GitHub Projects | GitLab | Git | Subversion | Jenkins | RedMine | Backlog | Google reCAPTCHA | Google Tag Manager | Google Analytics | Adobe Analytics | Adobe XD | Figma | SendGrid | Findy Teams など  
 
 ## 資格
 
