@@ -74,5 +74,5 @@ Docker/docker-compose | Splunk | Sentry | ChatGPT | Claude | GitHub Copilot | Gi
 - [LAPRAS](https://lapras.com/public/ishiyama)
 
 ## 連絡先
-✉️ contact@ishiyamaya.dev
+✉️ contact@ishiyamaya.dev  
 ✉️ [Twitter | DM](https://twitter.com/otsukarestful)
