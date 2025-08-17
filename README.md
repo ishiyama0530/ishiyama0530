@@ -1,4 +1,4 @@
-web application engineer.   
+web application engineer. freelance.   
 
 #### contact
 - contact@ishiyamaya.dev  
